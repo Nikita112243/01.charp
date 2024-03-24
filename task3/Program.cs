@@ -1,11 +1,11 @@
-﻿int a = 5;
-int b = 7;
+﻿int a = 100;
+int b = 30;
 
 if (a > b)
 {
-    console.WriteLine(a);
+        Console.WriteLine(a);
 }    
 else
 {
-    console.WriteLine(b);
+        Console.WriteLine(b); 
 }
